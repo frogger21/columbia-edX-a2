@@ -7,6 +7,6 @@ The Bayes classifier has each k-class to have its own covariance matrix which wi
 the seperator to be non-linear.
 
 Something like this.
-[!alt text](https://github.com/frogger21/columbia-edX-a2/blob/master/edx3.JPG)
+![alt text](https://github.com/frogger21/columbia-edX-a2/blob/master/edx3.JPG)
 
 Source: Professor John Paisley @ ColumbiaX edX ML lecture.
